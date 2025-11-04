@@ -1,1 +1,1 @@
-# resolu-o-desafio01-monitoria-programacao2
+# resolucao-desafio01-monitoria-programacao2
